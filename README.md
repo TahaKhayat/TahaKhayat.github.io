@@ -18,6 +18,9 @@ Images or photos captured using camera-based tools remain on the user’s device
 
 The app does not include advertising or third-party tracking.
 
+### TrueDepth API and Face Data
+TrueDepth API and Face Data: Some camera-based features of the app may use Apple’s TrueDepth API to support pupillary distance / interpupillary distance measurement. When this feature is used, the app processes face-position and eye-position information locally on the device only for the purpose of estimating pupillary distance. The app does not collect, store, save, upload, share, sell, or transmit facial images, facial videos, Face ID data, biometric identifiers, facial recognition templates, or TrueDepth face data. This information is not used for authentication, identification, advertising, analytics, tracking, profiling, or any purpose other than the active measurement feature. TrueDepth-related information is processed temporarily on-device during the measurement session and is discarded when the session ends.
+
 ## App Information
 
 Ophthalmology Toolbox is an educational and clinical reference app that provides practical ophthalmology tools, charts, and quick references.
